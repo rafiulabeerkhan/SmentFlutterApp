@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289528738611",
+    "project_id": "sment-bottle-crud",
+    "storage_bucket": "sment-bottle-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289528738611:android:600737d36f196b2b924446",
+        "android_client_info": {
+          "package_name": "com.example.sment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG_VorGfoQqO9an_uJohwV_OmxYaI4D70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
